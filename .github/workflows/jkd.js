@@ -31,7 +31,7 @@ jobs:
           node jkd.js
         env:
           JUKAN_BODY: ${{ secrets.JUKAN_BODY }}
-          
+          JUKAN_COOKIE: ${{ secrets.JUKAN_COOKIE }}
           
           #微信酱
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
