@@ -6,7 +6,7 @@ name: 今日头条
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 8-21 * * *'
+    - cron: '16 0-13 * * *'
   watch:
     types: started
   repository_dispatch:
