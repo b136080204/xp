@@ -35,8 +35,7 @@ jobs:
         env:
           wkzz_url: ${{ secrets.WKZZ_UEL }}
           wkzz_hd: ${{ secrets.WKZZ_HD }}
-          wkzz_url2: ${{ secrets.WKZZ_UEL }}
-          wkzz_hd2: ${{ secrets.WKZZ_HD }}
+         
           
           #微信酱
           PUSH_KEY: ${{ secrets.PUSH_KEY }}
