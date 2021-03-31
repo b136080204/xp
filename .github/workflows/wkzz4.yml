@@ -1,7 +1,7 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
 
-name: wkzz 微客众智自动阅读
+name: wkzz 微客众智自动阅读4
 
 on:
   workflow_dispatch:
@@ -33,8 +33,8 @@ jobs:
           cd ~/scripts
           node wkzz.js
         env:
-          wkzz_url: ${{ secrets.WKZZ_UEL }}
-          wkzz_hd: ${{ secrets.WKZZ_HD }}
+          wkzz_url: ${{ secrets.WKZZ_UEL4 }}
+          wkzz_hd: ${{ secrets.WKZZ_HD4 }}
          
           
           #微信酱
