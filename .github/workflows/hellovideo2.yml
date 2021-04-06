@@ -8,7 +8,7 @@ on:
   watch:
     types: started
   repository_dispatch:
-    types: hldsp2
+    types: hldsp
 jobs:
   build:
 
