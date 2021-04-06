@@ -3,7 +3,7 @@ name: hldsp@Feizao
 on:
   workflow_dispatch:
   schedule:
-    - cron: '20 5,18 * * *'
+    - cron: '20 0,10 * * *'
   # 本地时间+8
   watch:
     types: started
