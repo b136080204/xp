@@ -456,7 +456,7 @@
     {
             "id": "hldsp",
             "name": "哈喽短视频",
-            "keys": ["hldspurl", "hldsphd", "hldspurl2", "hldsphd2","hldspurl3", "hldsphd3","hldspurl4", "hldsphd4","hldspurl5", "hldsphd5","hldspurl6", "hldsphd6","hldspurl7", "hldsphd7","hldspurl8", "hldsphd8","hldspurl9", "hldsphd9","hldspurl10", "hldsphd10","hldspurl11", "hldsphd11","hldspurl12", "hldsphd12","hldspurl13", "hldsphd13","hldspurl14", "hldsphd14","hldspurl15", "hldsphd15","hldspurl16", "hldsphd16","hldspurl17", "hldsphd17","hldspurl18", "hldsphd18","hldspurl19", "hldsphd19","hldspurl20", "hldsphd20","hldspurl21", "hldsphd22"],
+            "keys": ["hldspurl", "hldsphd", "hldspurl2", "hldsphd2","hldspurl3", "hldsphd3","hldspurl4", "hldsphd4","hldspurl5", "hldsphd5","hldspurl6", "hldsphd6","hldspurl7", "hldsphd7","hldspurl8", "hldsphd8","hldspurl9", "hldsphd9","hldspurl10", "hldsphd10","hldspurl11", "hldsphd11","hldspurl12", "hldsphd12","hldspurl13", "hldsphd13","hldspurl14", "hldsphd14","hldspurl15", "hldsphd15","hldspurl16", "hldsphd16","hldspurl17", "hldsphd17"],
             "author": "@feizao",
             "settings": [{
             "id": "hldspstatus",
@@ -758,11 +758,11 @@
             "repo": "https://github.com/age174/-/blob/main/shq.js",
             "icons": ["https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png", "https://ftp.bmp.ovh/imgs/2021/04/e2b32e2eb2ad0cd3.png"],
             "script": "https://raw.githubusercontent.com/age174/-/main/shq.js"
-    } 
-		     {
+    } ,
+    {
             "id": "vsh",
             "name": "V生活",
-            "keys": ["vshurl", "vshhd", "vshbody", "vsh1body","vsh2body", "vshdspbody","vshspbody", "vshqdbody"],
+            "keys": ["vshurl", "vshhd", "vshbody", "vsh1body","vsh2body", "vshdspbody","vshspbody", "vshqdbody","vshur2", "vshhd2", "vshbody2", "vsh1body2","vsh2body2", "vshdspbody2","vshspbody2", "vshqdbody2","vshur3", "vshhd3", "vshbody3", "vsh1body3","vsh2body3", "vshdspbody3","vshspbody3", "vshqdbody3","vshur4", "vshhd4", "vshbody4", "vsh1body4","vsh2body4", "vshdspbody4","vshspbody4", "vshqdbody4","vshurl4", "vshhd4", "vshbody4", "vsh1body4","vsh2body4", "vshdspbody4","vshspbody4", "vshqdbody4"],
             "author": "@feizao",
             "settings": [{
             "id": "vshstatus",
